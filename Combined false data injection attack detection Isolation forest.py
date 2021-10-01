@@ -2,7 +2,8 @@
 """
 Created on Thu Sep 30 03:01:24 2021
 
-@author: USER
+@author: Ripan Kumar Kundu
+Master Thesis student at University of Rostock
 """
 
 
